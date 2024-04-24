@@ -11,4 +11,4 @@ function identificarLetras(pal) {
   }
   
   let resultado = identificarLetras('electrodomesticos');
-  console.log(resultado); // Output: { P: 1, A: 2, L: 1 }
+  console.log(resultado);
